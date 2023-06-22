@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:zombie",
+  "maxCount": 4,
+  "minCount": 3,
+  "weight": 10,
+  "orb_type_id": "orbofwrath:overworld"
+}

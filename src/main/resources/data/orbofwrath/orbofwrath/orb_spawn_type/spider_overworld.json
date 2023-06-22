@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:spider",
+  "maxCount": 3,
+  "minCount": 2,
+  "weight": 8,
+  "orb_type_id": "orbofwrath:overworld"
+}

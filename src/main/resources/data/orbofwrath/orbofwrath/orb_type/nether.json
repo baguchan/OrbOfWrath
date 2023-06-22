@@ -1,0 +1,5 @@
+{
+  "biomes": "#minecraft:is_nether",
+  "ignore_non_player": false,
+  "ignore_fire": true
+}

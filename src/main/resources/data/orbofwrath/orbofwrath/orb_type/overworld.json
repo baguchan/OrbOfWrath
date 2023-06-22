@@ -1,0 +1,5 @@
+{
+  "biomes": "#minecraft:is_overworld",
+  "ignore_non_player": false,
+  "ignore_fire": false
+}

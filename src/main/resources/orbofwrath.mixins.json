@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "baguchan.orbofwrath.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "refmap": "orbofwrath.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
